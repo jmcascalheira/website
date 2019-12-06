@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo PaixA�o | João Cascalheira</title>
+    <link>/authors/eduardo-paixao/</link>
+      <atom:link href="/authors/eduardo-paixao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eduardo PaixA�o</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Eduardo PaixA�o</title>
+      <link>/authors/eduardo-paixao/</link>
+    </image>
+    
+    <item>
+      <title>Technology, Use-Wear and Raw Material Sourcing Analysis of a c. 7500 Cal BP Lithic Assemblage from Cabeço Da Amoreira Shellmidden (Muge, Portugal)</title>
+      <link>/publication/2999-01-01_technology_use-wear/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_technology_use-wear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Territory and Abiotic Resources between 33 and 15.6 Ka at Vale Boi (SW Portugal)</title>
+      <link>/publication/2999-01-01_territory_and_abioti/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_territory_and_abioti/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

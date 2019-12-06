@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ClA�udia Umbelino | João Cascalheira</title>
+    <link>/authors/claudia-umbelino/</link>
+      <atom:link href="/authors/claudia-umbelino/index.xml" rel="self" type="application/rss+xml" />
+    <description>ClA�udia Umbelino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>ClA�udia Umbelino</title>
+      <link>/authors/claudia-umbelino/</link>
+    </image>
+    
+    <item>
+      <title>Resilience, Replacement and Acculturation in the Mesolithic/Neolithic Transition: The Case of Muge, Central Portugal</title>
+      <link>/publication/2999-01-01_resilience_replacem/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_resilience_replacem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

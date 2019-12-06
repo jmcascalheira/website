@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Benedetti | João Cascalheira</title>
+    <link>/authors/michael-benedetti/</link>
+      <atom:link href="/authors/michael-benedetti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Benedetti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Michael Benedetti</title>
+      <link>/authors/michael-benedetti/</link>
+    </image>
+    
+    <item>
+      <title>Middle and Late Stone Age of the Niassa Region, Northern Mozambique. Preliminary Results</title>
+      <link>/publication/2999-01-01_middle_and_late_ston/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_middle_and_late_ston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portable Art and Personal Ornaments from Txina-Txina: A New Later Stone Age Site in the Limpopo River Valley, Southern Mozambique</title>
+      <link>/publication/2999-01-01_portable_art_and_per/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_portable_art_and_per/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

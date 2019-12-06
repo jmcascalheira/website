@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vera Aldeias | João Cascalheira</title>
+    <link>/authors/vera-aldeias/</link>
+      <atom:link href="/authors/vera-aldeias/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vera Aldeias</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Vera Aldeias</title>
+      <link>/authors/vera-aldeias/</link>
+    </image>
+    
+    <item>
+      <title>Middle and Late Stone Age of the Niassa Region, Northern Mozambique. Preliminary Results</title>
+      <link>/publication/2999-01-01_middle_and_late_ston/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_middle_and_late_ston/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

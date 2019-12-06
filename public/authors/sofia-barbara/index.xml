@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sofia BA�rbara | João Cascalheira</title>
+    <link>/authors/sofia-barbara/</link>
+      <atom:link href="/authors/sofia-barbara/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sofia BA�rbara</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sofia BA�rbara</title>
+      <link>/authors/sofia-barbara/</link>
+    </image>
+    
+    <item>
+      <title>Detecting Single Events in Large Shell Mounds: A GIS Approach to Cabeço Da Amoreira, Muge, Central Portugal</title>
+      <link>/publication/2999-01-01_detecting_single_eve/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_detecting_single_eve/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

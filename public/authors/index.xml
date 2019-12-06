@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | João Cascalheira</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am an archaeologist interested in prehistoric hunter-gatherer adaptations, specifically in how these are related to processes of climate and environmental change. I focus on the study of lithic technological organization and its correlation with various aspects of ecological dynamics and human behavior. I currently direct three field projects, I am co-responsible for a project investigating the origins and evolution of modern human cognition in southwestern Iberia, and a colaborator in different projects in Mozambique.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Andrea Picin</title>
+      <link>/authors/andrea-picin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/andrea-picin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerd-Christian Weniger</title>
+      <link>/authors/gerd-christian-weniger/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/gerd-christian-weniger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabell Schmidt</title>
+      <link>/authors/isabell-schmidt/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/isabell-schmidt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuno Bicho</title>
+      <link>/authors/nuno-bicho/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nuno-bicho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedro Horta</title>
+      <link>/authors/pedro-horta/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/pedro-horta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

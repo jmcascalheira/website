@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leandro Infantini | João Cascalheira</title>
+    <link>/authors/leandro-infantini/</link>
+      <atom:link href="/authors/leandro-infantini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leandro Infantini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Leandro Infantini</title>
+      <link>/authors/leandro-infantini/</link>
+    </image>
+    
+    <item>
+      <title>Territory and Abiotic Resources between 33 and 15.6 Ka at Vale Boi (SW Portugal)</title>
+      <link>/publication/2999-01-01_territory_and_abioti/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_territory_and_abioti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ecodynamics of the First Modern Humans in Southwestern Iberia: The Case of Vale Boi, Portugal</title>
+      <link>/publication/2999-01-01_the_ecodynamics_of_t/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_the_ecodynamics_of_t/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

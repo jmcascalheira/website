@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Gibaja | João Cascalheira</title>
+    <link>/authors/juan-gibaja/</link>
+      <atom:link href="/authors/juan-gibaja/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan Gibaja</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Juan Gibaja</title>
+      <link>/authors/juan-gibaja/</link>
+    </image>
+    
+    <item>
+      <title>Lithic Technology from the Gravettian of Vale Boi: New Insights into Early Upper Paleolithic Human Behavior in Southern Iberian Peninsula</title>
+      <link>/publication/2999-01-01_lithic_technology_fr/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_lithic_technology_fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology, Use-Wear and Raw Material Sourcing Analysis of a c. 7500 Cal BP Lithic Assemblage from Cabeço Da Amoreira Shellmidden (Muge, Portugal)</title>
+      <link>/publication/2999-01-01_technology_use-wear/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_technology_use-wear/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

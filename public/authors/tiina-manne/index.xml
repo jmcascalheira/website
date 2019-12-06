@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiina Manne | João Cascalheira</title>
+    <link>/authors/tiina-manne/</link>
+      <atom:link href="/authors/tiina-manne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tiina Manne</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tiina Manne</title>
+      <link>/authors/tiina-manne/</link>
+    </image>
+    
+    <item>
+      <title>Cross-Scale Adaptive Behaviors during the Upper Paleolithic in Iberia: The Example of Vale Boi (Southwestern Portugal)</title>
+      <link>/publication/2999-01-01_cross-scale_adaptive/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_cross-scale_adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intensive Subsistence Practices at Vale Boi, an Upper Paleolithic Site in Southwestern Portugal</title>
+      <link>/publication/2999-01-01_intensive_subsistenc/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_intensive_subsistenc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ecodynamics of the First Modern Humans in Southwestern Iberia: The Case of Vale Boi, Portugal</title>
+      <link>/publication/2999-01-01_the_ecodynamics_of_t/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_the_ecodynamics_of_t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vale Boi (Algarve, Portugal) and the Solutrean in Southwestern Iberia</title>
+      <link>/publication/2999-01-01_vale_boi_algarve_p/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_vale_boi_algarve_p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

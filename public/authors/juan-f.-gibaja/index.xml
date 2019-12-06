@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan F. Gibaja | João Cascalheira</title>
+    <link>/authors/juan-f.-gibaja/</link>
+      <atom:link href="/authors/juan-f.-gibaja/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan F. Gibaja</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Juan F. Gibaja</title>
+      <link>/authors/juan-f.-gibaja/</link>
+    </image>
+    
+    <item>
+      <title>Vale Boi (Algarve, Portugal) and the Solutrean in Southwestern Iberia</title>
+      <link>/publication/2999-01-01_vale_boi_algarve_p/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_vale_boi_algarve_p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

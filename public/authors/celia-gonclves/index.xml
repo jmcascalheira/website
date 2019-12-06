@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Célia Gonçlves | João Cascalheira</title>
+    <link>/authors/celia-gonclves/</link>
+      <atom:link href="/authors/celia-gonclves/index.xml" rel="self" type="application/rss+xml" />
+    <description>Célia Gonçlves</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Célia Gonçlves</title>
+      <link>/authors/celia-gonclves/</link>
+    </image>
+    
+    <item>
+      <title>A Google-Based Freeware Solution for Archaeological Field Survey and Onsite Artifact Analysis</title>
+      <link>/publication/2999-01-01_a_google-based_freew/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_a_google-based_freew/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

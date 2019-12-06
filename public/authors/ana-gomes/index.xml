@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Gomes | João Cascalheira</title>
+    <link>/authors/ana-gomes/</link>
+      <atom:link href="/authors/ana-gomes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ana Gomes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ana Gomes</title>
+      <link>/authors/ana-gomes/</link>
+    </image>
+    
+    <item>
+      <title>Portable Art and Personal Ornaments from Txina-Txina: A New Later Stone Age Site in the Limpopo River Valley, Southern Mozambique</title>
+      <link>/publication/2999-01-01_portable_art_and_per/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      <guid>/publication/2999-01-01_portable_art_and_per/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
