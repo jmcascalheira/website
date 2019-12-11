@@ -6,7 +6,7 @@ authors:
 - Andrea Picin
 date: "2019-12-01T00:00:00Z"
 doi: "10.1007/978-3-030-27403-0"
-featured: true
+featured: false
 image:
   caption: 'Cover'
   focal_point: ""
