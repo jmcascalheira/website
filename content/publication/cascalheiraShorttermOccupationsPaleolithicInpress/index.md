@@ -4,7 +4,7 @@ abstract: This edited book aims to provide a new perspective on the identificati
 authors:
 - admin
 - Andrea Picin
-date: "2020-01-01T00:00:00Z"
+date: "2019-12-01T00:00:00Z"
 doi: "10.1007/978-3-030-27403-0"
 featured: true
 image:
