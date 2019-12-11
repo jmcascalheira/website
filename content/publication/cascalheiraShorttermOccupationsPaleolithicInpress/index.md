@@ -16,7 +16,7 @@ publication: 'Short-Term Occupations in Paleolithic Archaeology'
 publication_short: ""
 publication_types:
 - "5"
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2019-12-01T00:00:00Z"
 summary: This edited book aims to provide a new perspective on the identification and interpretation of short-term occupations in Paleolithic Archaeology.The volume includes contributions with a particular focus on the definition and identification of short-term occupations in Paleolithic contexts, aiming to improve our current knowledge on the topic, both methodologically and interpretatively. The set of chapters coming from a broad spectrum of geographies and chronologies will contribute to the debate on the definition of short-term occupations but also to a better understanding on how past hunter-gatherers communities adapted and moved in different environmental contexts across time. The in-depth examinations of short-term occupations in different chronologies and environments will shed light on an aspect of the behavioral trajectories of the human species in the management of the territory.
 tags:
 - Source Themes
