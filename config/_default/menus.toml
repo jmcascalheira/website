@@ -27,8 +27,13 @@
   name = "CV"
   url = "files/cv.pdf"
   weight = 50
+  
+[[main]]
+  name = "Prospective students"
+  url = "students/"
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
