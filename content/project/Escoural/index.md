@@ -1,5 +1,5 @@
 ---
-date: "2019-12-17T00:00:00Z"
+date: "2019-11-19T00:00:00Z"
 external_link: ""
 image:
   caption: "Gruta do Escoural"
@@ -9,7 +9,8 @@ tags:
 - Middle Paleolithic
 - Neanderthals
 - Southern Portugal
-title: The Middle Paleolithic occupation of Gruta do Escoural (southern Portugal)
+- Iberia
+title: The Middle Paleolithic occupation of Gruta do Escoural (Southern Portugal)
 url_code: ""
 url_pdf: ""
 url_slides: ""
