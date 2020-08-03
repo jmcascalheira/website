@@ -118,7 +118,17 @@
   </url>
   
   <url>
+    <loc>/tags/iberia/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/mesolithic/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/middle-paleolithic/</loc>
     <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,7 +138,17 @@
   </url>
   
   <url>
+    <loc>/tags/southern-portugal/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/cam/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/escoural/</loc>
     <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -235,11 +255,6 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/escoural/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
