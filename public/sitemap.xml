@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/teaching/teoria/</loc>
+    <loc>/teaching/students/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/teaching/students/</loc>
+    <loc>/teaching/disciplinas/liticos/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/disciplinas/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/disciplinas/dados/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/disciplinas/teoria/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
