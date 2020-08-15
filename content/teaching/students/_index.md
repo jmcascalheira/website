@@ -14,10 +14,10 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-#menu:
-#  students:
-#    name: Prospective students
-#    weight: 1
+menu:
+  students:
+    name: Prospective students
+    weight: 1
 ---
 
 

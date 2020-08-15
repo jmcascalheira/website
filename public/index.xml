@@ -315,21 +315,6 @@ gantt
     </item>
     
     <item>
-      <title>Teoria Arqueológica</title>
-      <link>/teaching/students/expe/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
-      <guid>/teaching/students/expe/</guid>
-      <description>
-
-&lt;h1 id=&#34;a&#34;&gt;A&lt;/h1&gt;
-
-&lt;h1 id=&#34;b&#34;&gt;B&lt;/h1&gt;
-
-&lt;h1 id=&#34;c&#34;&gt;C&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>

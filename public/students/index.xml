@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prospective students | João Cascalheira</title>
-    <link>/teaching/students/</link>
-      <atom:link href="/teaching/students/index.xml" rel="self" type="application/rss+xml" />
+    <link>/students/</link>
+      <atom:link href="/students/index.xml" rel="self" type="application/rss+xml" />
     <description>Prospective students</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/img/icon-192.png</url>
       <title>Prospective students</title>
-      <link>/teaching/students/</link>
+      <link>/students/</link>
     </image>
     
   </channel>
