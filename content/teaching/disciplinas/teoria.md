@@ -1,10 +1,10 @@
 ---
 # Course title, summary, and position in the list.
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 1
+weight: 2
 
 # Page metadata.
-title: Courses (in portuguese)
+title: Teoria Arqueológica
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -16,7 +16,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   disciplinas:
-    name: Disciplinas
+    name: Teoria Arqueológica
     weight: 1
 ---
 
