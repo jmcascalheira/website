@@ -8,7 +8,7 @@ title: Courses (in portuguese)
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 menu:
   disciplinas:
     name: Courses (in portuguese)
-    weight: 1
+    weight: 0
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor ac sem eu euismod. Aenean rhoncus vulputate est sed commodo. Curabitur ultricies nulla nec leo varius vestibulum. Duis hendrerit turpis nulla, vitae varius lorem auctor quis. Nullam mi orci, tincidunt eu pulvinar eu, porta eget mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris ornare eget est vitae sollicitudin. Curabitur in molestie tortor. Nullam sed purus at justo gravida malesuada ut sit amet sem. Duis vel ullamcorper lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris eget enim arcu.
