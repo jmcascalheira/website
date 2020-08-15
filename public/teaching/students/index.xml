@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prospective students | João Cascalheira</title>
+    <link>/teaching/students/</link>
+      <atom:link href="/teaching/students/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prospective students</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Prospective students</title>
+      <link>/teaching/students/</link>
+    </image>
+    
+    <item>
+      <title>Teoria Arqueológica</title>
+      <link>/teaching/students/expe/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <guid>/teaching/students/expe/</guid>
+      <description>
+
+&lt;h1 id=&#34;a&#34;&gt;A&lt;/h1&gt;
+
+&lt;h1 id=&#34;b&#34;&gt;B&lt;/h1&gt;
+
+&lt;h1 id=&#34;c&#34;&gt;C&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

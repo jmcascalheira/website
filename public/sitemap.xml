@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/students/</loc>
+    <loc>/teaching/students/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,7 +188,7 @@
   </url>
   
   <url>
-    <loc>/courses/students/expe/</loc>
+    <loc>/teaching/students/expe/</loc>
     <lastmod>2019-05-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -257,7 +257,7 @@
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>/teaching/</loc>
   </url>
   
 </urlset>
