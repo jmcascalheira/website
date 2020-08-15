@@ -4,7 +4,7 @@ summary: Learn how to use Academic's docs layout for publishing online courses, 
 weight: 2
 
 # Page metadata.
-title: Teoria Arqueológica
+title: Introdução à Análise de Dados em Arqueologia
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -16,8 +16,8 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   disciplinas:
-    name: Teoria Arqueológica
-    weight: 2
+    name: Introdução à Análise de Dados em Arqueologia
+    weight: 3
 ---
 
 ## A

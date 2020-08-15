@@ -16,8 +16,8 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   disciplinas:
-    name: Courses (in portuguese)
-    weight: 0
+    name: Courses (in portuguese) 
+    weight: 1
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor ac sem eu euismod. Aenean rhoncus vulputate est sed commodo. Curabitur ultricies nulla nec leo varius vestibulum. Duis hendrerit turpis nulla, vitae varius lorem auctor quis. Nullam mi orci, tincidunt eu pulvinar eu, porta eget mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris ornare eget est vitae sollicitudin. Curabitur in molestie tortor. Nullam sed purus at justo gravida malesuada ut sit amet sem. Duis vel ullamcorper lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris eget enim arcu.
