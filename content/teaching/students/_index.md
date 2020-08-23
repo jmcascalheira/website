@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position in the list.
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: Info for prospective students and graduate degrees at the University of Algarve.
 weight: 1
 
 # Page metadata.
