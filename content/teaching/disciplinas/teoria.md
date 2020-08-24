@@ -1,16 +1,24 @@
 ---
+# Course title, summary, and position in the list.
+summary: 
 weight: 2
-title: Teoria Arqueológica
-draft: false
-toc: true
-type: docs
+
+# Page metadata.
+title: Análise de materiais líticos
+date:
+lastmod:
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
 menu:
   disciplinas:
     name: Teoria Arqueológica
     weight: 2
 ---
-
-<img src="https://i.pinimg.com/originals/b3/18/91/b3189109043c5a2e944270f987486e73.jpg" width="400" height="400" />
 
 **Curso:** Mestrado em Arqueologia
 
@@ -22,6 +30,7 @@ menu:
 
 **ECTS:** 10
 
+<img src="https://i.pinimg.com/originals/b3/18/91/b3189109043c5a2e944270f987486e73.jpg" width="400" height="400" />
 
 
 ## Objetivos
