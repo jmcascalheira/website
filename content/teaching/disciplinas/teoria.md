@@ -4,7 +4,7 @@ summary:
 weight: 2
 
 # Page metadata.
-title: Análise de materiais líticos
+title: Teoria Arqueológica
 date:
 lastmod:
 draft: false  # Is this a draft? true/false
