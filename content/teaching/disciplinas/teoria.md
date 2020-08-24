@@ -1,25 +1,16 @@
 ---
-# Course title, summary, and position in the list.
-summary: 
 weight: 2
-
-# Page metadata.
 title: Teoria Arqueológica
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
-draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
-
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
+draft: false
+toc: true
+type: docs
 menu:
   disciplinas:
     name: Teoria Arqueológica
     weight: 2
 ---
 
+<img src="https://i.pinimg.com/originals/b3/18/91/b3189109043c5a2e944270f987486e73.jpg" width="400" height="400" />
 
 **Curso:** Mestrado em Arqueologia
 
