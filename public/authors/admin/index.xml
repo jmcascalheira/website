@@ -5,12 +5,20 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>João Cascalheira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>João Cascalheira</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Paleoenvironments and human adaptations during the Last Glacial Maximum in the Iberian Peninsula: A review</title>
+      <link>/publication/cascalheira_lgm/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cascalheira_lgm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Territoriality and the organization of technology during the Last Glacial Maximum in southwestern Europe</title>
