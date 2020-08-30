@@ -15,7 +15,7 @@ education:
     year: 2007
 email: "jmcascalheira@ualg.pt"
 interests:
-- Prehistoric Hunter-gatherer adapations
+- Prehistoric Hunter-gatherer adaptations
 - Stone tool technology
 - Computer applications in archaeological practice
 name: João Cascalheira
