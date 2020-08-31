@@ -19,7 +19,7 @@ entry screen where all the site information is recorded.
 
 ### Lithics On The Go App
 
-LithicsOTG was developed to transpose to an Android operative system an analysis freeware Windows-only software that we, as well as other researchers, have been using in our laboratory: the E4 program (available at [here](http://www.oldstoneage.com/software/e4.shtml)). This program allows faster and more reliable data entry due to the possibility of defining conditional statements that allow variables to be skipped based on values entered for previous variables.
+LithicsOTG was developed to transpose to an Android operative system an analysis freeware Windows-only software that we, as well as other researchers, have been using in our laboratory: the E4 program (available [here](http://www.oldstoneage.com/software/e4.shtml)). This program allows faster and more reliable data entry due to the possibility of defining conditional statements that allow variables to be skipped based on values entered for previous variables.
 This app is composed of a series of screens, each corresponding to a variable that presents either menu items to choose from or numeric input boxes to insert measurements taken on each individual artifact. This can be done using digital calipers connected via USB to the smartphone/tablet.
 
 **[LithicOTG APK](https://www.dropbox.com/s/aosz7ft1753u0y4/LithicsOTG.apk?dl=1)** - instalation file for your smartphone or tablet.
