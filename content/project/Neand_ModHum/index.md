@@ -10,7 +10,7 @@ tags:
 - Early Modern Humans
 - Southwestern Iberia
 title: The origins and evolution of human cognition and the impact of southwestern european coastal ecology
-url_code: "www.joaocascalheira.com"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
