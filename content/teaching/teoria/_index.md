@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position in the list.
-summary: 
+summary: Unidade Curricular obrigatória do 1º Ano do Mestrado em Arqueologia (Universidade do Algarve)
 weight: 2
 
 # Page metadata.
