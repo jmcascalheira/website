@@ -13,10 +13,10 @@ Both were built using the [App Inventor](http://ai2.appinventor.mit.edu/) freewa
 ArcheoSurvey is designed to record site location and the site’s characteristics. The app is composed of two different screens only: one initial screen where the surveyor is allowed to choose between different save modes (i.e., online or offline) to quickly check position on Google Maps and to click a button to start the recording of a new site, and another data
 entry screen where all the site information is recorded.
 
-**[Archaeosurvey APK](https://www.dropbox.com/s/sqz77jm9ewhwvkq/ArcheoSurvey.apk?dl=1)** - instalation file for your smartphone or tablet.
+**[Archeosurvey APK](https://www.dropbox.com/s/sqz77jm9ewhwvkq/ArcheoSurvey.apk?dl=1)** - instalation file for your smartphone or tablet.
 
 
-**[Archaeosurvey AIA](https://www.dropbox.com/s/pmo4aa8vxme8obl/ArcheoSurvey.aia?dl=1)** - configuration file to use in App Inventor.
+**[Archeosurvey AIA](https://www.dropbox.com/s/pmo4aa8vxme8obl/ArcheoSurvey.aia?dl=1)** - configuration file to use in App Inventor.
 
 
 ### Lithics On The Go App
