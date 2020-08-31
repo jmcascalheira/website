@@ -7,6 +7,8 @@ layout: docs
 title: Prospective students
 ---
 
+{{< youtube jauALPqKn94 >}}
+
 <h3>Scope</h3>
 <p>At the <a href="http://www.ualg.pt/">University of Algarve</a> we offer two post-graduate degrees (<a href="https://fchs.ualg.pt/en/curso/1471">Master</a> and <a href="https://fchs.ualg.pt/en/curso/1673">Ph.D.</a>) in Archaeology. Both are run in straight collaboration with <a href="http://www.icarehb.com/">ICArEHB</a> (Interdisciplinary Center for Archaeology and Evolution of Human Behavior), whose research is organized in four main groups - **Prehistoric Coastal Adaptations**, **African archaeology and Human Evolution**, **Development of Complex Societies**, and **History of Archaeological Science**. ICArEHB's projects focus mostly on using different disciplines and methodological approaches, such as material analysis, geoarchaeology, use-wear analysis, zooarchaeology, paleobotany and GIS.<p>
 <p> Given my expertise and research focus I am particularly interested in working with students in stone tool analysis and quantitative methods applied to archaeology.<p>
