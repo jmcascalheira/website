@@ -12,7 +12,7 @@ Both were built using the [App Inventor](http://ai2.appinventor.mit.edu/) freewa
 ### ArcheoSurvey App
 
 
-<img src="files/archeosurvey.png" width="200" height="200" />
+<img src="/static/files/archeosurvey.png" width="200" height="200" />
 
 ArcheoSurvey is designed to record site location and the site’s characteristics. The app is composed of two different screens only: one initial screen where the surveyor is allowed to choose between different save modes (i.e., online or offline) to quickly check position on Google Maps and to click a button to start the recording of a new site, and another data
 entry screen where all the site information is recorded.
@@ -26,7 +26,7 @@ entry screen where all the site information is recorded.
 ### Lithics On The Go App
 
 
-<img src="files/lithicsotg.png" width="200" height="200" />
+<img src="/static/files/lithicsotg.png" width="200" height="200" />
 
 LithicsOTG was developed to transpose to an Android operative system an analysis freeware Windows-only software that we, as well as other researchers, have been using in our laboratory: the E4 program (available [here](http://www.oldstoneage.com/software/e4.shtml)). This program allows faster and more reliable data entry due to the possibility of defining conditional statements that allow variables to be skipped based on values entered for previous variables.
 This app is composed of a series of screens, each corresponding to a variable that presents either menu items to choose from or numeric input boxes to insert measurements taken on each individual artifact. This can be done using digital calipers connected via USB to the smartphone/tablet.
