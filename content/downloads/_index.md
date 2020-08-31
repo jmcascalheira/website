@@ -12,7 +12,8 @@ Both were built using the [App Inventor](http://ai2.appinventor.mit.edu/) freewa
 ### ArcheoSurvey App
 
 
-<img src="/static/files/archeosurvey.png" width="200" height="200" />
+
+<img src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20180629092550052-0759:S2326376817000213:S2326376817000213_fig3g.jpeg?pub-status=live" width="200" height="200" />
 
 ArcheoSurvey is designed to record site location and the site’s characteristics. The app is composed of two different screens only: one initial screen where the surveyor is allowed to choose between different save modes (i.e., online or offline) to quickly check position on Google Maps and to click a button to start the recording of a new site, and another data
 entry screen where all the site information is recorded.
