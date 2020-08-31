@@ -1,16 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Courses (in portuguese) | João Cascalheira</title>
+    <title>Teoria Arqueológica | João Cascalheira</title>
     <link>/teaching/teoria/</link>
       <atom:link href="/teaching/teoria/index.xml" rel="self" type="application/rss+xml" />
-    <description>Courses (in portuguese)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <description>Teoria Arqueológica</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Courses (in portuguese)</title>
+      <title>Teoria Arqueológica</title>
       <link>/teaching/teoria/</link>
     </image>
+    
+    <item>
+      <title>Objectivos</title>
+      <link>/teaching/teoria/objetivos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/teaching/teoria/objetivos/</guid>
+      <description>
+
+&lt;h2 id=&#34;objetivos&#34;&gt;Objetivos&lt;/h2&gt;
+
+&lt;p&gt;A interpretação dos dados arqueológicos está sempre dependente de um corpo teórico e consequemente a teoria arqueológica é um tema fundamental ao exercício de investigação em Arqueologia.
+Esta Unidade Curricular irá permitir-te desenvolver competências teóricas e críticas no âmbito da Teoria e História do Pensamento Arqueológico. No final deverás ser capaz de identificar, compreender e criticar as principais correntes teóricas em Arqueologia.&lt;/p&gt;
+
+&lt;h2 id=&#34;avaliação&#34;&gt;Avaliação&lt;/h2&gt;
+
+&lt;p&gt;O ensino desta UC assenta na exposição oral/escrita e discussão dos vários temas acima identificados, com base num conjunto alargado de bibliografia. A quantidade de artigos e capítulos de livros que terás de ler será bastante avultada. Em média, conta com 5 a 6 artigos para cada semana de aulas do semestre. A avaliação será feita com base em:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Participação (10%)&lt;/strong&gt; - A participação nas aulas é muito importante nesta UC, tendo em conta que todos os tópicos do programa serão discutidos em aula. As discussões são livres e todos os alunos terão oportunidade de expressar as suas ideias e opiniões, desde que devidamente articuladas com o tema em debate. Espera-se que os alunos sejam participantes informados em todos os aspectos da aula, contribuindo para a experiência de ensino/aprendizagem. E sim, isto inclui assiduidade.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Apresentação Oral (40%)&lt;/strong&gt; - Cada aluno terá de fazer uma apresentação oral sobre um tema escolhido de entre a lista acima fornecida. Esta apresentação oral deverá resumir de forma crítica um ou vários dos artigos providenciados sobre o tema em questão. Os principais objetivo desta apresentação são os de desenvolver as tuas competências de apresentação oral e síntese científica, e ao mesmo tempo criar uma base a partir da qual a turma possa discutir de forma crítica e construtiva o respetivo tópico. A apresentação oral não deverá exceder os 20 minutos e pode ser acompanhada de materiais audiovisuais (e.g. powerpoint).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enciclopédia Digital de Teoria e Prospeção Arqueológica (20%)&lt;/strong&gt; - Nesta tarefa, os alunos poderão obtar por escrever uma biografia profissional e crítica detalhada de um arqueólogo de renome, ou um texto síntese sobre uma das principais correntes de pensamento arqueológico. Em vez de os trabalhos serem entregues ao docente, os alunos construirão para a elaboração de um website que irá hospedar todas as entradas.&lt;/p&gt;
+
+&lt;p&gt;Por que é que isto é importante? Primeiro, é uma maneira de aprofundares conhecimento sobre um arqueólogo ou corrente de pensamento arqueológico. Segundo, porque terás a oportunidade de contribuir para algo diferente de um trabalho académico normal. A &amp;lsquo;Enciclopédia Digital de Teoria e Prospeção Arqueológica&amp;rsquo; não vai desaparecer no final do semestre. Permanecerá online (e provavelmente será aumentada e revista por outros alunos sempre que eu lecionar esta aula). O resultado será um recurso muito útil para os interessados na história da arqueologia, e poderás incluir este elemento no teu CV. Finalmente, este projeto também irá permitir que desenvolvas algumas competências digitais que não terias aprendido em aulas normais de Arqueologia.&lt;/p&gt;
+
+&lt;p&gt;O texto para a &amp;lsquo;Enciclopédia Digital de Teoria e Prospeção Arqueológica&amp;rsquo; deve ter &lt;strong&gt;pelo menos&lt;/strong&gt; 2000 palavras (mais é perfeitamente adequado). Deverás seleccionar um arqueólogo ou tema no formulário disponibilizado &lt;strong&gt;&lt;a href=&#34;https://forms.gle/P81ECJ5BdeUwQCTp7&#34; target=&#34;_blank&#34;&gt;AQUI&lt;/a&gt;&lt;/strong&gt;. As escolhas devem ser feitas até ao dia &lt;strong&gt;6 de Novembro&lt;/strong&gt;. Se não fizeres a tua escolha até essa data ser-te-á designado aleatoriamente um arqueólogo/tópico dos restantes. Se escreveres sobre um tópico que não escolheste de antemão, o trabalho não será válido. Podes optar por escrever sobre um arqueólogo/tópico que não está na lista, mas precisas de confirmar com o docente com antecedência.&lt;/p&gt;
+
+&lt;p&gt;Algumas diretrizes sobre o projeto da Enciclopédia Digital de Teoria e Prospeção Arqueológica:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cumprir a contagem mínima de palavras é um requisito deste elemento de avaliação. Se não atingires a contagem mínima de palavras serás significativamente penalizado.&lt;/li&gt;
+&lt;li&gt;Deverás incluir pelo menos 7 referências bibliográficas. As fontes podem ser digitais ou físicas. No entanto, devem ser de natureza académica/científica. Se não tens a certeza do que constitui “natureza académica/científica” pergunta. Aqui está também uma fonte realmente boa para determinar a qualidade de uma fonte online: &lt;a href=&#34;http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/Evaluate.html&#34; target=&#34;_blank&#34;&gt;http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/Evaluate.html&lt;/a&gt; ou &lt;a href=&#34;http://guides.lib.berkeley.edu/evaluating&#34; target=&#34;_blank&#34;&gt;http://guides.lib.berkeley.edu/evaluating&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Poderás incluir imagens mas todas devem ser referenciadas corretamente. Tenta usar trabalhos licenciados com Creative Commons. Aqui está uma dica para encontrar imagens licenciadas Creative Commons - usa o motor de busca &lt;a href=&#34;https://search.creativecommons.org/&#34; target=&#34;_blank&#34;&gt;CC Search&lt;/a&gt;. Além disso, para imagens arqueológicas específicas licenciadas por Creative Commons, também podes consultar o &lt;a href=&#34;https://isaw.nyu.edu/publications/research-reference/awib&#34; target=&#34;_blank&#34;&gt;ISAW Ancient World Image Bank&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Wikipedia (e sites semelhantes como dictionary.com, Encyclopedia Britannic etc.) são fontes absolutamente aceitáveis. Lembra-te de que a Wikipedia é um ótimo lugar para começar, mas não deve ser algo que cites como fonte num trabalho.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Recensão crítica de um artigo ou livro (30%)&lt;/strong&gt; - Se a entrada para a encicplopédia irá permitir-te desenvolver trabalho de investigação e síntese, este ponto da avaliação está direcionado para o desenvolvimento de espírito crítico relativamente aos vários aspetos da Teoria Arqueológica. A escolha do artigo ou livro é livre, mas não pode ser nenhuma da bibliografia discutida em aula. A recensão deverá ter no máximo 5000 palavras, incluindo referências bibliográficas. O ficheiro final deverá ser enviado para &lt;a href=&#34;mailto:jmcascalheira@ualg.pt&#34; target=&#34;_blank&#34;&gt;jmcascalheira@ualg.pt&lt;/a&gt; em formato PDF até ao dia X de Janeiro de 2021.&lt;/p&gt;
+
+&lt;h2 id=&#34;calendário&#34;&gt;Calendário&lt;/h2&gt;
+
+&lt;h2 id=&#34;outros-recursos&#34;&gt;Outros Recursos&lt;/h2&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

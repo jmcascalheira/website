@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria de Andrés-Herrero | João Cascalheira</title>
+    <link>/authors/maria-de-andres-herrero/</link>
+      <atom:link href="/authors/maria-de-andres-herrero/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria de Andrés-Herrero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Maria de Andrés-Herrero</title>
+      <link>/authors/maria-de-andres-herrero/</link>
+    </image>
+    
+    <item>
+      <title>Paleoenvironments and human adaptations during the Last Glacial Maximum in the Iberian Peninsula: A review</title>
+      <link>/publication/cascalheira_lgm/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cascalheira_lgm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
