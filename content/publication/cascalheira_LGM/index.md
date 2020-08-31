@@ -3,6 +3,13 @@ abstract: 'The Iberian Peninsula is considered one of the most well-suited regio
 
 authors:
 - admin
+- Manuel Alcaraz-Castaño
+- Javier Alcolea-González
+- Maria de Andrés-Herrero
+- Alvaro Arrizabalaga
+- Joan Emili Aura Tortosa
+- Naroa Garcia-Ibaibarriaga
+- Maria-Jose Iriarte-Chiapusso
 date: "2020-08-29T00:00:00Z"
 doi: "10.1016/j.quaint.2020.08.005"
 featured: false
@@ -21,7 +28,7 @@ summary: 'The Iberian Peninsula is considered one of the most well-suited region
 tags:
 - Source Themes
 title: 'Paleoenvironments and human adaptations during the Last Glacial Maximum in the Iberian Peninsula: A review'
-url_code: ""
+url_code: "https://osf.io/ny8mx/"
 url_dataset: ""
 url_pdf: ""
 url_poster: ""
