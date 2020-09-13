@@ -55,13 +55,13 @@ Algumas diretrizes sobre o projeto da Enciclopédia Digital de Teoria e Prospeç
 * Cumprir a contagem mínima de palavras é um requisito deste elemento de avaliação. Se não atingires a contagem mínima de palavras serás significativamente penalizado.
 * Deverás incluir pelo menos 7 referências bibliográficas. As fontes podem ser digitais ou físicas. No entanto, devem ser de natureza académica/científica. Se não tens a certeza do que constitui “natureza académica/científica” pergunta. Aqui está também uma fonte realmente boa para determinar a qualidade de uma fonte online: <http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/Evaluate.html> ou <http://guides.lib.berkeley.edu/evaluating>
 * Poderás incluir imagens mas todas devem ser referenciadas corretamente. Tenta usar trabalhos licenciados com Creative Commons. Aqui está uma dica para encontrar imagens licenciadas Creative Commons - usa o motor de busca [CC Search](https://search.creativecommons.org/). Além disso, para imagens arqueológicas específicas licenciadas por Creative Commons, também podes consultar o [ISAW Ancient World Image Bank](https://isaw.nyu.edu/publications/research-reference/awib).
-* Wikipedia (e sites semelhantes como dictionary.com, Encyclopedia Britannic etc.) são fontes absolutamente aceitáveis. Lembra-te de que a Wikipedia é um ótimo lugar para começar, mas não deve ser algo que cites como fonte num trabalho.
+* Wikipedia (e sites semelhantes como dictionary.com, Encyclopedia Britannic etc.) são fontes absolutamente aceitáveis. Mas lembra-te de que a Wikipedia é um ótimo lugar para começar, mas não deve ser algo que cites como fonte num trabalho.
 
 
-**Recensão crítica de um artigo ou livro (30%)** - Se a entrada para a encicplopédia irá permitir-te desenvolver trabalho de investigação e síntese, este ponto da avaliação está direcionado para o desenvolvimento de espírito crítico relativamente aos vários aspetos da Teoria Arqueológica. A escolha do artigo ou livro é livre, mas não pode ser nenhuma da bibliografia discutida em aula. A recensão deverá ter no máximo 5000 palavras, incluindo referências bibliográficas. O ficheiro final deverá ser enviado para <jmcascalheira@ualg.pt> em formato PDF até ao dia X de Janeiro de 2021.
+**Recensão crítica de um artigo ou livro (30%)** - Se a entrada para a encicplopédia irá permitir-te desenvolver trabalho de investigação e síntese, este ponto da avaliação está direcionado para o desenvolvimento de espírito crítico relativamente aos vários aspetos da Teoria Arqueológica. A escolha do artigo ou livro é livre, mas não pode ser nenhuma da bibliografia discutida em aula. A recensão deverá ter no máximo 5000 palavras, incluindo referências bibliográficas. O ficheiro final deverá ser enviado para <jmcascalheira@ualg.pt> em formato PDF até ao dia 23 de Janeiro de 2021.
 
 
 ## Calendário
 
 
-## Outros Recursos
+
