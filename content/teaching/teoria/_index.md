@@ -63,5 +63,19 @@ Algumas diretrizes sobre o projeto da Enciclopédia Digital de Teoria e Prospeç
 
 ## Calendário
 
-
+| Dia   | Tópico     | Artigos |
+|-------|------------|---------|
+| 12/10 | Introdução |         |
+| 19/10 |            |         |
+| 26/10 |            |         |
+| 2/11  |            |         |
+| 9/11  |            |         |
+| 16/11 |            |         |
+| 23/11 |            |         |
+| 30/11 |            |         |
+| 7/12  |            |         |
+| 14/12 |            |         |
+| 4/1   |            |         |
+| 11/1  |            |         |
+| 18/1  |            |         |
 
