@@ -63,7 +63,7 @@ Algumas diretrizes sobre o projeto da Enciclopédia Digital de Teoria e Prospeç
 
 ## Temas e Calendário
 
-A seguinte tabela apresenta a lista dos temas a desenvolver em cada aula, bem como as respetiva referências bibliográficas que deves ler para essa aula. As referências a negrito são elementos essenciais para o tema em questão. Para acederes aos PDFs de cada uma das publicações podes fazê-lo neste [LINK]()
+A seguinte tabela apresenta a lista dos temas a desenvolver em cada aula, bem como as respetiva referências bibliográficas que deves ler para essa aula. As referências a negrito são elementos essenciais para o tema em questão. Para acederes aos PDFs de cada uma das publicações podes fazê-lo neste [LINK](https://www.dropbox.com/sh/qigs2y707kvv1ib/AABSL4Y3kHLImkXYEwcISN_-a?dl=0)
 
 | Dia   	| Tópico                                                                                       	| Bibliografia                                                                                                                                                                                                                                                                                                	|
 |-------	|----------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
