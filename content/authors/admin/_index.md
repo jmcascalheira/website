@@ -51,4 +51,4 @@ user_groups:
 - Visitors
 ---
 
-I am an archaeologist interested in prehistoric hunter-gatherer adaptations, specifically in how these are related to processes of climate and environmental change. I focus on the study of lithic technological organization and its correlation with various aspects of ecological dynamics and human behavior. I currently direct three field projects, I am co-responsible for a project investigating the origins and evolution of modern human cognition in southwestern Iberia, and a colaborator in different projects in Mozambique.
+I am an archaeologist interested in prehistoric hunter-gatherer adaptations, specifically in how these are related to processes of climate and environmental change. I focus on the study of lithic technological organization and its correlation with various aspects of ecological dynamics and human behavior. I currently direct three field projects, I am co-responsible for several projects investigating the Middle and Upper Paleolithic in southwestern Iberia, and a collaborator in different projects on the Middle and Later Stone Age of Mozambique and Sudan.
