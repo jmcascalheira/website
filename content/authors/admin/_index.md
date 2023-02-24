@@ -22,7 +22,7 @@ name: João Cascalheira
 organizations:
 - name: ICArEHB - Universidade do Algarve
   url: "www.icarehb.com"
-role: Assistant Researcher
+role: Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -51,4 +51,4 @@ user_groups:
 - Visitors
 ---
 
-I am an archaeologist interested in prehistoric hunter-gatherer adaptations, specifically in how these are related to processes of climate and environmental change. I focus on the study of lithic technological organization and its correlation with various aspects of ecological dynamics and human behavior. I currently direct fieldwork in several sites within the context of my ERC Consolidator Grant - FINISTERRA: Population trajectories and cultural dynamics of the late Neanderthals in Far Western Eurasia. I am also a collaborator in different projects on the Middle and Later Stone Age in Mozambique and Sudan.
+I am an archaeologist interested in prehistoric hunter-gatherer adaptations, specifically in how these are related to processes of climate and environmental change. I focus on the study of lithic technological organization and its correlation with various aspects of ecological dynamics and human behavior. I currently direct fieldwork in several sites within the context of my ERC Consolidator Grant - FINISTERRA: Population trajectories and cultural dynamics of the late Neanderthals in Far Western Eurasia. I am also a collaborator in different projects on the Middle and Later Stone Age in Mozambique and Sudan. Currently I am also the Director of ICArEHB, a research center for Archaeology at the University of Algarve.
