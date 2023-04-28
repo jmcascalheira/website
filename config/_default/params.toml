@@ -94,7 +94,7 @@ address = {street = "ICArEHB, FCHS, Campus de Gambelas, Universidade do Algarve"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.045250", longitude = "-7.974567"}
+coordinates = {latitude = "37.04651875989943", longitude = "-7.974164019051312"}
 
 # Directions for visitors to locate you.
 directions = ""
