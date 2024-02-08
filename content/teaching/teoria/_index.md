@@ -48,7 +48,7 @@ O ensino desta UC assenta na exposição oral/escrita e discussão dos vários t
 
 Por que é que isto é importante? Primeiro, é uma maneira de aprofundares conhecimento sobre um arqueólogo ou corrente de pensamento arqueológico. Segundo, porque terás a oportunidade de contribuir para algo diferente de um trabalho académico normal. A 'Enciclopédia Digital de Teoria Arqueológica' não vai desaparecer no final do semestre. Permanecerá online (e provavelmente será aumentada e revista por outros alunos sempre que eu lecionar esta aula). O resultado será um recurso muito útil para os interessados na história da arqueologia, e poderás eventualmente incluir este elemento no teu CV. 
 
-O texto para a 'Enciclopédia Digital de Teoria Arqueológica' deve ter **no máximo** 1000 palavras. Deverás seleccionar um arqueólogo ou tema no formulário disponibilizado **[AQUI](https://forms.gle/P81ECJ5BdeUwQCTp7)**. As escolhas devem ser feitas até ao dia **6 de Março**. Se não fizeres a tua escolha até essa data ser-te-á designado aleatoriamente um arqueólogo/tópico dos restantes. Se escreveres sobre um tópico que não escolheste de antemão, o trabalho não será válido. Podes optar por escrever sobre um arqueólogo/tópico que não está na lista, mas precisas de confirmar com o docente com antecedência.
+O texto para a 'Enciclopédia Digital de Teoria Arqueológica' deve ter **no máximo** 1000 palavras. Deverás seleccionar um arqueólogo ou tema no formulário disponibilizado **[AQUI](https://forms.gle/P81ECJ5BdeUwQCTp7)**. As escolhas devem ser feitas até ao dia **4 de Março**. Se não fizeres a tua escolha até essa data ser-te-á designado aleatoriamente um arqueólogo/tópico dos restantes. Se escreveres sobre um tópico que não escolheste de antemão, o trabalho não será válido. Podes optar por escrever sobre um arqueólogo/tópico que não está na lista, mas precisas de confirmar com o docente com antecedência.
 
 Algumas diretrizes sobre o projeto da Enciclopédia Digital de Teoria Arqueológica:
 
@@ -58,7 +58,7 @@ Algumas diretrizes sobre o projeto da Enciclopédia Digital de Teoria Arqueológ
 * Wikipedia (e sites semelhantes como dictionary.com, Encyclopedia Britannic etc.) são fontes absolutamente aceitáveis. Mas lembra-te de que a Wikipedia é um ótimo lugar para começar, mas não deve ser algo que cites como fonte num trabalho.
 
 
-**Recensão crítica de um artigo ou livro (30%)** - Se a entrada para a encicplopédia irá permitir-te desenvolver trabalho de investigação e síntese, este ponto da avaliação está direcionado para o desenvolvimento de espírito crítico relativamente aos vários aspetos da Teoria Arqueológica. A escolha do artigo ou livro é livre, mas não pode ser nenhuma da bibliografia discutida em aula. A recensão deverá ter no máximo 5000 palavras, incluindo referências bibliográficas. O ficheiro final deverá ser enviado para <jmcascalheira@ualg.pt> em formato PDF até ao dia **29 de Maio de 2023**.
+**Recensão crítica de um artigo ou livro (30%)** - Se a entrada para a encicplopédia irá permitir-te desenvolver trabalho de investigação e síntese, este ponto da avaliação está direcionado para o desenvolvimento de espírito crítico relativamente aos vários aspetos da Teoria Arqueológica. A escolha do artigo ou livro é livre, mas não pode ser nenhuma da bibliografia discutida em aula. A recensão deverá ter no máximo 5000 palavras, incluindo referências bibliográficas. O ficheiro final deverá ser enviado para <jmcascalheira@ualg.pt> em formato PDF até ao dia **21 de Maio de 2023**.
 
 
 ## Temas e Calendário
