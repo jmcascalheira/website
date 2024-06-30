@@ -4,6 +4,9 @@ authors:
 bio:
 education:
   courses:
+  - course: Habilitation in Archaeology
+    institution: Universidade do Algarve
+    year: 2024
   - course: PhD in Archaeology
     institution: Universidade do Algarve
     year: 2013
