@@ -36,7 +36,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=bc9Ul_cAAAAJ
-- icon: github
+- icon: blogger
   icon_pack: fab
   link: https://github.com/jmcascalheira
 - icon: orcid
