@@ -36,7 +36,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=bc9Ul_cAAAAJ
-- icon: blogger
+- icon: github
   icon_pack: fab
   link: https://github.com/jmcascalheira
 - icon: orcid
@@ -48,6 +48,9 @@ social:
 - icon: publons
   icon_pack: ai
   link: "https://publons.com/1736137/"
+- icon: blogger
+  icon_pack: fab
+  link: "https://world.hey.com/jmcascalheira"
 superuser: true
 user_groups:
 - Researchers
