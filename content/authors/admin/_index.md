@@ -57,4 +57,8 @@ user_groups:
 - Visitors
 ---
 
+<<<<<<< HEAD
 I am an archaeologist interested in prehistoric hunter-gatherer adaptations, specifically in how these are related to processes of climate and environmental change. I focus on the study of lithic technological organization and its correlation with various aspects of ecological dynamics and human behavior. I currently direct fieldwork in several sites within the context of my [ERC Consolidator Grant - FINISTERRA: Population trajectories and cultural dynamics of the late Neanderthals in Far Western Eurasia](www.finisterra.icarehb.com). I am also a collaborator in different projects on the Middle and Later Stone Age in Mozambique and Sudan. Currently I am also the Director of [ICArEHB](www.icarehb.com), a research center for Archaeology at the University of Algarve.
+=======
+I am an archaeologist interested in prehistoric hunter-gatherer adaptations, specifically in how these are related to processes of climate and environmental change. I focus on the study of lithic technological organization and its correlation with various aspects of ecological dynamics and human behavior. I currently direct fieldwork in several sites within the context of my E[RC Consolidator Grant - FINISTERRA: Population trajectories and cultural dynamics of the late Neanderthals in Far Western Eurasia](www.finisterra.icarehb.com). I am also a collaborator in different projects on the Middle and Later Stone Age in Mozambique and Sudan. Currently I am also the Director of [ICArEHB](www.icarehb.com), a research center for Archaeology at the University of Algarve.
+>>>>>>> e8fe72da746348d9e90cd73a82eec7c07bed2f7b
