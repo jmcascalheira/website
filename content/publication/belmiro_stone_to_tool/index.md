@@ -10,7 +10,7 @@ date: "2025-11-10T00:00:00Z"
 doi: "10.1007/s12520-025-02339-8"
 featured: false
 image:
-  caption: ''
+  caption: 'Cover'
   focal_point: ""
   preview_only: false
 projects: []
