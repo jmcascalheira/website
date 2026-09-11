@@ -119,7 +119,7 @@ A avaliação é **contínua, sem exame final**, e será feita com base em:
 
 **Apresentação Oral (40%)** - Cada grupo de dois alunos terá de fazer uma apresentação oral sobre um tema escolhido de entre a lista abaixo fornecida. Esta apresentação oral deverá resumir de forma crítica um ou vários dos artigos providenciados sobre o tema em questão. Os principais objetivos desta apresentação são os de desenvolver as tuas competências de apresentação oral e síntese científica, e ao mesmo tempo criar uma base a partir da qual a turma possa discutir de forma crítica e construtiva o respetivo tópico. A apresentação oral não deverá exceder os 30 minutos e tem de ser obrigatoriamente acompanhada de materiais audiovisuais (e.g. powerpoint).
 
-**Trabalho escrito - revisão crítica de obra (35%)** - Este elemento de avaliação está direcionado para o desenvolvimento de espírito crítico relativamente aos vários aspetos da Teoria Arqueológica. A escolha do artigo ou livro é livre, mas não pode ser nenhuma da bibliografia discutida em aula. A revisão deverá ter no máximo 5000 palavras, incluindo referências bibliográficas. O ficheiro final deverá ser enviado para [jmcascalheira\@ualg.pt](mailto:jmcascalheira@ualg.pt) em formato PDF até ao dia **14 de Dezembro de 2026**.
+**Trabalho escrito - revisão crítica de obra (35%)** - Este elemento de avaliação está direcionado para o desenvolvimento de espírito crítico relativamente aos vários aspetos da Teoria Arqueológica. A escolha do artigo ou livro é livre, mas não pode ser nenhuma da bibliografia discutida em aula. A revisão deverá ter no máximo 5000 palavras, incluindo referências bibliográficas. O ficheiro final deverá ser enviado para [jmcascalheira@ualg.pt](mailto:jmcascalheira@ualg.pt) em formato PDF até ao dia **14 de Dezembro de 2026**.
 
 **Exercício crítico escrito sobre a utilização de IA (15%)** - Neste exercício vais usar deliberadamente uma ferramenta de IA generativa e depois avaliá-la de forma crítica. O objetivo não é testar a ferramenta em si, mas usar as suas limitações como forma de aprofundares o teu próprio conhecimento sobre teoria arqueológica.
 
@@ -136,7 +136,7 @@ A tua avaliação crítica deverá responder às seguintes questões:
 -   **Que narrativa é construída?** O texto apresenta a história da disciplina como um progresso linear e inevitável? Privilegia a literatura anglófona? Ignora a investigação portuguesa e ibérica?
 -   **Verificação das referências.** Todas as referências citadas pela ferramenta têm de ser verificadas uma a uma. Indica quais existem de facto, quais estão incorretas e quais foram inventadas.
 
-Deverás entregar, num único PDF: (i) o texto da avaliação crítica; (ii) em anexo, os prompts utilizados e o texto integral produzido pela ferramenta; e (iii) a Declaração de Utilização de IA (Anexo I). O ficheiro deverá ser enviado para [jmcascalheira\@ualg.pt](mailto:jmcascalheira@ualg.pt) até ao dia **14 de Dezembro de 2026**.
+Deverás entregar, num único PDF: (i) o texto da avaliação crítica; (ii) em anexo, os prompts utilizados e o texto integral produzido pela ferramenta; e (iii) a Declaração de Utilização de IA (Anexo I). O ficheiro deverá ser enviado para [jmcascalheira@ualg.pt](mailto:jmcascalheira@ualg.pt) até ao dia **14 de Dezembro de 2026**.
 
 Nota que este é o único elemento de avaliação em que a utilização de IA generativa é obrigatória. Em todos os restantes aplicam-se as regras da secção seguinte.
 
