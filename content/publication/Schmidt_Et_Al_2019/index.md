@@ -20,8 +20,6 @@ publication_types:
 - "5"
 publishDate: "2019-11-14T00:00:00Z"
 summary: 'The book assembles new insights into humanity social, cultural and economic developments during the Last Glacial Maximum in Western Europe and adjacent regions. It gathers original, up-to-date research results on the Solutrean techno-complex, reflecting four major fields of research: data from current excavations; analysis of lithic assemblages; new results from studies on climatic conditions and human-environmental interactions; and insights into artistic expressions. New methodological and analytical approaches are applied, providing significant contributions to Paleolithic research beyond the Last Glacial Maximum.'
-tags:
-- Source Themes
 title: Human adaptations to the Last Glacial Maximum
 url_code: ""
 url_dataset: ""
