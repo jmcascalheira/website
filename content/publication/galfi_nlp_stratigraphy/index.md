@@ -27,10 +27,10 @@ tags:
 title: 'Clarifying Stratigraphic Terminology in Paleolithic Archaeology Using Natural Language Processing'
 url_code: ""
 url_dataset: ""
-url_pdf: "https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/clarifying-stratigraphic-terminology-in-paleolithic-archaeology-using-natural-language-processing/A0BAF6028F0A541F77D1E3AEDA7A4879"
+url_pdf: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S2326376826101818"
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/clarifying-stratigraphic-terminology-in-paleolithic-archaeology-using-natural-language-processing/A0BAF6028F0A541F77D1E3AEDA7A4879"
 url_video: ""
 ---
